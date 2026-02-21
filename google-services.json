@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1041654289694",
+    "project_id": "medihelp-app-25a18",
+    "storage_bucket": "medihelp-app-25a18.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041654289694:android:5a47b999a7991f37e9250f",
+        "android_client_info": {
+          "package_name": "com.example.medihelp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkOk1RLVD3Y3cuzAVURHMmhkCoXFJ5Te0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

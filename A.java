@@ -1,0 +1,1 @@
+After registering, click Download google-services.json.
